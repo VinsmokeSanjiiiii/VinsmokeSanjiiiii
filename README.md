@@ -1,31 +1,69 @@
 # Hi there, I'm Crisjan Alleh Prado 👋
 
-I'm a detail-oriented **Full-Stack Software Developer** specializing in scalable web and mobile applications. 
+<p align="left">
+  <img src="https://img.shields.io/badge/Role-Full--Stack%20Developer-blue?style=flat-square" alt="Role">
+  <img src="https://img.shields.io/badge/Experience-2+%20Years-green?style=flat-square" alt="Experience">
+  <img src="https://img.shields.io/badge/Focus-Enterprise%20%26%20Mobile-orange?style=flat-square" alt="Focus">
+</p>
+
+I am a detail-oriented **Full-Stack Software Developer** specializing in building scalable web applications and high-performance mobile solutions. I manage the complete software development lifecycle—bridging the gap between sleek UI/UX wireframes and robust, maintainable backend deployments.
+
+---
 
 ## 🚀 About Me
-- 🏢 I have 2+ years of experience managing the complete software development lifecycle, from UI/UX wireframes to deployment and maintenance.
-- 💻 Currently focused on building custom Android applications and enterprise-level management systems.
-- ⚙️ I love optimizing database performance, designing scalable backend architectures, and automating workflows to build intuitive, user-centric solutions.
-- 📫 Reach out to me: **crisjanallehp@gmail.com**
-- 🌐 Check out my portfolio: **https://crisjanalleh.netlify.app**
+
+- 🏢 **Experience:** 2+ years architecting full-cycle software solutions, enterprise management systems, and custom Android applications.
+- ⚙️ **Core Passions:** Optimizing database queries, designing scalable system architectures, and automating workflows to build intuitive, user-centric solutions.
+- 💻 **Current Focus:** Leveling up cloud integrations and expanding mobile ecosystem performance.
+
+📫 **Let's connect:** [crisjanallehp@gmail.com](mailto:crisjanallehp@gmail.com)  
+🌐 **Explore my work:** [crisjanalleh.netlify.app](https://crisjanalleh.netlify.app)
+
+---
 
 ## 🛠️ Tech Stack
-*Tools & technologies I work with on a daily basis:*
 
-### Frontend & Mobile
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+### 📱 Frontend & Mobile
+<p align="left">
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue.js">
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio">
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+</p>
 
-### Backend & Database
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+### ⚙️ Backend & Database
+<p align="left">
+  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
+</p>
 
-### Version Control & Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![RESTful APIs](https://img.shields.io/badge/RESTful_APIs-005C84?style=for-the-badge&logo=databricks&logoColor=white)
+### 🧰 Tools & Architecture
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/RESTful_APIs-005C84?style=for-the-badge&logo=databricks&logoColor=white" alt="RESTful APIs">
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+*Note: Replace `YOUR_GITHUB_USERNAME` in the URLs below with your actual GitHub username to activate the live tracking cards.*
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=visual_studio_code&count_private=true" alt="Crisjan's GitHub Stats" width="48%">&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=visual_studio_code" alt="Top Languages" width="48%">
+</p>
+
+---
+
+## 🏆 Profile Achievements
+
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=visual_studio_code&column=4&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies">
+</p>
+
+*“The youth walks fast, but the old man knows the road.”* 🚀
