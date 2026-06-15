@@ -61,7 +61,7 @@ I am a detail-oriented **Full-Stack Software Developer** specializing in buildin
 ## 🏆 Profile Achievements
 
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=visual_studio_code&column=4&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=VinsmokeSanjiiiii&theme=visual_studio_code&column=4&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies">
 </p>
 
 *“The youth walks fast, but the old man knows the road.”* 🚀
