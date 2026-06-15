@@ -12,7 +12,7 @@ I am a detail-oriented **Full-Stack Software Developer** specializing in buildin
 
 ## 🚀 About Me
 
-- 🏢 **Experience:** 2+ years architecting full-cycle software solutions, enterprise management systems, and custom Android applications.
+- 🏢 **Experience:** 2 years architecting full-cycle software solutions, enterprise management systems, and custom Android applications.
 - ⚙️ **Core Passions:** Optimizing database queries, designing scalable system architectures, and automating workflows to build intuitive, user-centric solutions.
 - 💻 **Current Focus:** Leveling up cloud integrations and expanding mobile ecosystem performance.
 
@@ -46,22 +46,3 @@ I am a detail-oriented **Full-Stack Software Developer** specializing in buildin
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/RESTful_APIs-005C84?style=for-the-badge&logo=databricks&logoColor=white" alt="RESTful APIs">
 </p>
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VinsmokeSanjiiiii&show_icons=true&theme=visual_studio_code&count_private=true&disable_animations=true" alt="Crisjan's GitHub Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VinsmokeSanjiiiii&layout=compact&theme=visual_studio_code&disable_animations=true" alt="Top Languages" width="48%">
-</p>
-
----
-
-## 🏆 Profile Achievements
-
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=VinsmokeSanjiiiii&theme=visual_studio_code&column=4&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies">
-</p>
-
-*“The youth walks fast, but the old man knows the road.”* 🚀
