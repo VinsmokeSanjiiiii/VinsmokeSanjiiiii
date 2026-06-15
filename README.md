@@ -52,8 +52,8 @@ I am a detail-oriented **Full-Stack Software Developer** specializing in buildin
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VinsmokeSanjiiiii&show_icons=true&theme=visual_studio_code&count_private=true" alt="Crisjan's GitHub Stats" width="48%">&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinsmokeSanjiiiii&layout=compact&theme=visual_studio_code" alt="Top Languages" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=VinsmokeSanjiiiii&show_icons=true&theme=visual_studio_code&count_private=true&disable_animations=true" alt="Crisjan's GitHub Stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VinsmokeSanjiiiii&layout=compact&theme=visual_studio_code&disable_animations=true" alt="Top Languages" width="48%">
 </p>
 
 ---
