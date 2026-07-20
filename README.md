@@ -2,11 +2,11 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/Role-Full--Stack%20Developer-blue?style=flat-square" alt="Role">
-  <img src="https://img.shields.io/badge/Experience-2+%20Years-green?style=flat-square" alt="Experience">
+  <img src="https://img.shields.io/badge/Experience-2%20Years-green?style=flat-square" alt="Experience">
   <img src="https://img.shields.io/badge/Focus-Enterprise%20%26%20Mobile-orange?style=flat-square" alt="Focus">
 </p>
 
-I am a detail-oriented **Full-Stack Software Developer** specializing in building scalable web applications and high-performance mobile solutions. I manage the complete software development lifecycle—bridging the gap between sleek UI/UX wireframes and robust, maintainable backend deployments.
+I am a detail-oriented **Junior Full-Stack Software Engineer** specializing in building scalable web applications and high-performance mobile solutions. I manage the complete software development lifecycle—bridging the gap between sleek UI/UX wireframes and robust, maintainable backend deployments.
 
 ---
 
